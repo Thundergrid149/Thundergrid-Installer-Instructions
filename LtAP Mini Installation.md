@@ -2,7 +2,7 @@
 ## Positioning
 * When mounting outside, aim to have the device out of access from the public and or at a height that is only reachable with a ladder. This is for security and theft prevention.
 * When mounting outside, look to place it under an eave to minimise exposure to the elements.
-* Please avoid placing it inside metal cabinets.
+* Please avoid placing it inside metal cabinets as this will lead to poor mobile reception.
 * Thundergrid has minimum acceptable reception parameters, make sure the location of the device will achieve this. Please feel free to contact us for more information and support regarding this.
 
 ## Mounting
