@@ -10,7 +10,6 @@
 1. It is possible to attach the device to a wall, using the provided screw holes on the sides of the unit. The device should be mounted in a way that the cable openings are pointing downward as shown in the picture.
 2. The ports are protected with a small door, that is held in place with one screw. Use the Philips PH2 screwdriver to access the ports.
 3. The door has cut-out places for all available ports, but please only break out the openings that you will use. The device can be used both indoors and outdoors. The IP rating scale for this device is IP54.
-4. The device enclosure has places where you can drill openings for external LTE and GPS antennas. Use a drill to make holes that are appropriate for the antenna cable used.
 
 ## Powering
 Powering the device over etherent is the prefered method. The adapater for this is included in the box. This allows you to put the device up to 100 meters away from the rest of the communcations equipment. The power consumption under maximum load with attachments can reach 9 W.
