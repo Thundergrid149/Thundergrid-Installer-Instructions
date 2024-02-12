@@ -12,12 +12,12 @@
 3. The door has cut-out places for all available ports, but please only break out the openings that you will use. The device can be used both indoors and outdoors. The IP rating scale for this device is IP54.
 
 ## Powering
-Powering the device over etherent is the prefered method. The adapater for this is included in the box. This allows you to put the device up to 100 meters away from the rest of the communcations equipment. The power consumption under maximum load with attachments can reach 9 W.
+Powering the device over etherent is the prefered method. The adapater for this is included in the box. This allows you to put the device up to 100 meters away (ethernet cable limit) from the rest of the communcations equipment. The power consumption under maximum load with attachments can reach 9 W.
 
 **Ethernet port accepts passive and 802.3af/at Power over Ethernet 8-57 V DC (compensate for loss on cable, so more than 12 V recommended).**
 
 Connecting to a PoE Adapter:
-1. Connect the Ethernet cable from the device to the "Data+Power" (PoE+DATA) port of the PoE adapter.
+1. Connect the Ethernet cable from the LtAP Mini to the "Data+Power" (PoE+DATA) port of the PoE adapter.
 2. Connect an Ethernet cable from your switch (LAN) to the PoE adapter.
 3. Connect the power cord to the adapter, and then plug the power cord into a power outlet.
 4. The device should have at least two green LEDs light up if all done correctly
