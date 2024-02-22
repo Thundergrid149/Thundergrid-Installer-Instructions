@@ -31,7 +31,7 @@ Connecting to a PoE Adapter:
 
 ### Powering the PoE Adapter
 Both of the following options are acceptable and are included in the box. Choose which ever works better in your specific installation.
-1. DC power supply
+1. DC power supply (AC electrical socket).
 2. Cable DC with striped 2*24 AWG Tin 8 mm, length 0.35 m.
 
 ## Mikrotik Official Information
