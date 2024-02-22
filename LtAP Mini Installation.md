@@ -22,9 +22,12 @@ Powering the device over etherent is the prefered method. The adapater for this 
 
 Connecting to a PoE Adapter:
 1. Connect the Ethernet cable from the LtAP Mini to the "Data+Power" (PoE+DATA) port of the PoE adapter.
-2. Connect an Ethernet cable from your switch (LAN) to the PoE adapter.
+2. Plug the male end of the PoE adapter into the switch (LAN).
 3. Connect the power cord to the adapter, and then plug the power cord into a power outlet.
 4. The device should have at least two green LEDs light up if all done correctly
+
+> [!TIP]
+> If you have a long etherent run to the LtAP. You can try first plugging in a smaller cable that you know to be working to make sure the PoE injector is configured correctly.
 
 ### Powering the PoE Adapter
 Both of the following options are acceptable and are included in the box. Choose which ever works better in your specific installation.
