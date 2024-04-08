@@ -1,8 +1,24 @@
 # Configure Windows Network Adapter
 1. In Windows, open the control panel
-2. Click Network and Sharing
-3. IPv4
-4. Set the following settings then click apply
+
+![IP Control Panel](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/e2b65bca289407feab340a1447948859df022682/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-control-panel.gif)
+***
+2. Search for ```Network Connections``` and select ```View Network Connections```
+
+![IP Network Connections](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/e2b65bca289407feab340a1447948859df022682/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-network-connections.gif)
+***
+3. Double click on ```Etherent```
+
+![IP Network Adapters](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/e2b65bca289407feab340a1447948859df022682/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-adapters.png)
+***
+4. Select ```Internet Protocol Version 4 (TCP/IPv4)``` then click ```Properties```
+
+![IP IPv4](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/a3c3ff82a1d33f07f6e4f6c8291bc4b6ebb006fb/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-ipv4.png)
+***
+5. Set the following settings then click ```Ok```
+
+![IP Settings](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/a3c3ff82a1d33f07f6e4f6c8291bc4b6ebb006fb/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-settings.png)
+***
    
 * **IP Address:** ```192.168.1.33```
 * **Subnet Mask:** ```255.255.255.0```
@@ -26,6 +42,7 @@ C[5.4]
 
 [Download Firmware (System 5.0.5)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3641540644/inch-system-5.0.5.armv7.itb?api=v2)
 # Firmware Update
+You must be connected to the charger view ethernet
 1. Navigate to the Charger Web GUI
 
 Type the IP address of the charger into you web browser. Make sure to include the ```http://``` before the IP address. Example ▶️ ```http://192.168.1.250```
