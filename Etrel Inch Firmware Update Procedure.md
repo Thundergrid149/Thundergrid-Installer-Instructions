@@ -5,7 +5,7 @@
 4. Set the following settings then click apply
    
 * **IP Address:** ```192.168.1.33```
-* ***Subnet Mask:** ```255.255.255.0```
+* **Subnet Mask:** ```255.255.255.0```
 * **Default Gateway:** ```192.168.1.1```
 
 ## Troubleshooting
