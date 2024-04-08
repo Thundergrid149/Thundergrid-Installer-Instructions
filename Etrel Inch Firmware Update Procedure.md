@@ -17,14 +17,11 @@
 ***
 5. Set the following settings then click ```Ok```
 
-![IP Settings](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/a3c3ff82a1d33f07f6e4f6c8291bc4b6ebb006fb/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-settings.png)
-***
-   
 * **IP Address:** ```192.168.1.33```
 * **Subnet Mask:** ```255.255.255.0```
 
-## Troubleshooting
-Open CMD and try ping the chargers IP address ```192.168.1.250```
+![IP Settings](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/a3c3ff82a1d33f07f6e4f6c8291bc4b6ebb006fb/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-settings.png)
+***
 
 # Firmware Update Path
 The firmware must be updated in a specific order. Please apply the ```system``` firmware before the ```app``` firmware.
@@ -41,6 +38,7 @@ C[5.4]
 [Download Firmware (App 5.4)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3885269020/inch-app-5.4.armv7.itb?api=v2)
 
 [Download Firmware (System 5.0.5)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3641540644/inch-system-5.0.5.armv7.itb?api=v2)
+
 # Firmware Update
 You must be connected to the charger view ethernet
 1. Navigate to the Charger Web GUI
@@ -50,6 +48,8 @@ Type the IP address of the charger into you web browser. Make sure to include th
 The charger IP address can be found by opening the service menu on the charger then opening the ```1. Communications``` menu.
 
 The default IP address is ```192.168.1.250```
+
+![Charger Access](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/cb295b992cc7a42101c873787e552edf317dd2b2/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/charger-access.gif)
 ***
 2. Login to the charger
 
@@ -58,10 +58,14 @@ Use the default password unless otherwise specified
 **Username:** ```root@etrel.com```
 
 **Password:** ```toor```
+
+![Charger Login Screen](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/cb295b992cc7a42101c873787e552edf317dd2b2/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/charger-login-screen.png)
 ***
 3. Upload charger firmware
 
 Open the charger menu in the top left corner of the screen. Click the ```diagnostics``` section. Select ```Upload Firmware```. Select the firmware you downloaded earlier from your computer.
+
+![Charger Firmware Upload](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/cb295b992cc7a42101c873787e552edf317dd2b2/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/charger-firmware-upload.gif)
 
 > [!NOTE]
 > The firmware update usually takes 2-3 minutes but sometimes can be longer
