@@ -31,8 +31,8 @@ The firmware must be updated in a specific order. Please apply the ```system``` 
 ```mermaid
 flowchart LR
 
-A[5.X]-->|System|B
-B[5.0.5]-->|App|C
+A[5.X]-->| System |B
+B[5.0.5]-->| App |C
 C[5.4]
 ```
 ***
