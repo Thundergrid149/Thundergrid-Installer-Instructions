@@ -1,7 +1,7 @@
 # Instructions for Installing Thundergrid LtAP Mini
 ## Post Installation
 > [!IMPORTANT]
-> Please take photos of the unit installed and its location. Email these to ```reuben.andrews@thundergrid.net```
+> Please take photos of the unit installed and its location. Email these to ```photos@thundergrid.net```
 
 ## Positioning
 * When mounting outside, aim to have the device out of access from the public and or at a height that is only reachable with a ladder. This is for security and theft prevention.
