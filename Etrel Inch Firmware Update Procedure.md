@@ -41,7 +41,7 @@ C[5.4]
 
 [Download Firmware (System 5.0.5)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3641540644/inch-system-5.0.5.armv7.itb?api=v2)
 
-# Firmware Update
+# Peform Firmware Update
 1. Navigate to the Charger Web GUI
 
 Type the IP address of the charger into you web browser. Make sure to include the ```http://``` before the IP address. Example ▶️ ```http://192.168.1.250```
