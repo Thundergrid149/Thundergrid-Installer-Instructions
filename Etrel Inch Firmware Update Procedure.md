@@ -1,4 +1,6 @@
 # Configure Windows Network Adapter
+Below are steps to configure your network adapter on Windows to connect to the charger with an ethernet cable.
+
 1. In Windows, open the control panel
 
 ![IP Control Panel](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/e2b65bca289407feab340a1447948859df022682/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-control-panel.gif)
