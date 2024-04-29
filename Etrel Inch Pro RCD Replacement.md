@@ -1,1 +1,1 @@
-# Etrel Inch Pro RCD Replacement
+# RCD Replacement for Etrel Inch Pro
