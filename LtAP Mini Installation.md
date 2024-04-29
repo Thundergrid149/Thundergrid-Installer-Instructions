@@ -13,10 +13,11 @@
 ![ltap](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/030dbc3b237191de3b219814e3e959084cd523d0/Files/ltap-mini-mounting.png)
 1. It is possible to attach the device to a wall, using the provided screw holes on the sides of the unit. The device should be mounted in a way that the cable openings are pointing downward as shown in the picture.
 2. The ports are protected with a small door, that is held in place with one screw. Use the Philips PH2 screwdriver to access the ports.
-3. The door has cut-out places for all available ports, but please only break out the openings that you will use. The device can be used both indoors and outdoors. The IP rating scale for this device is IP54.
+3. The door has cut-out places for all available ports, but please only break out the openings that you will use.
+4. The device can be used both indoors and outdoors. The IP rating scale for this device is IP54.
 
 ## Powering
-Powering the device over etherent is the prefered method. The adapater for this is included in the box. This allows you to put the device up to 100 meters away (ethernet cable limit) from the rest of the communcations equipment. The power consumption under maximum load with attachments can reach 9 W.
+Powering the device over ethernet is the preferred method. The adapter for this is included in the box. This allows you to put the device up to 100 meters away (ethernet cable limit) from the rest of the communication equipment. The power consumption under maximum load with attachments can reach 9 W.
 
 **Ethernet port accepts passive and 802.3af/at Power over Ethernet 8-57 V DC (compensate for loss on cable, so more than 12 V recommended).**
 
@@ -24,10 +25,10 @@ Connecting to a PoE Adapter:
 1. Connect the Ethernet cable from the LtAP Mini to the "Data+Power" (PoE+DATA) port of the PoE adapter.
 2. Plug the male end of the PoE adapter into the switch (LAN).
 3. Connect the power cord to the adapter, and then plug the power cord into a power outlet.
-4. The device should have at least two green LEDs light up if all done correctly
+4. The device should have at least two green LEDs light up if all is done correctly
 
 > [!TIP]
-> If you have a long etherent run to the LtAP. You can try first plugging in a smaller cable that you know to be working to make sure the PoE injector is configured correctly.
+> If you have a long ethernet run to the LtAP. You can try first plugging in a smaller cable that you know to be working to make sure the PoE injector is configured correctly.
 
 ### Powering the PoE Adapter
 Both of the following options are acceptable and are included in the box. Choose which ever works better in your specific installation.
