@@ -3,6 +3,8 @@ Updating the firmware consists of the following two major steps
 * Configure your computer's network adapter to allow you to communicate with the charger
 * Uploading the firmware update to the charger
 
+Please call the Thundergrid Network Ops team on `0800 387 877` for assistance.
+
 ## Configure Windows Network Adapter
 Below are steps to configure your network adapter on Windows to connect to the charger with an ethernet cable.
 
@@ -33,10 +35,12 @@ Below are steps to configure your network adapter on Windows to connect to the c
 ## Firmware Update Path
 The firmware must be updated in a specific order. Please apply the ```system``` firmware before the ```app``` firmware.
 
-If the charger is on a version starting with `4.0` you will have to update to `5.0` first. [5.0 Download](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3221094430/5.0)
+If the charger is on a version starting with `4.0` you will have to update to `5.0` first. [5.0 Download](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3221094430/5.0) (https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3221094430/5.0). The 5.0 update has the system & app bundled into one file.
 ```mermaid
 flowchart LR
 
+Z[4.x]-->|System + App|Y
+Y[5.0]-.-A
 A[5.X]-->| System |B
 B[5.0.5]-->| App |C
 C[5.4]
@@ -44,9 +48,14 @@ C[5.4]
 ***
 ## Download the latest firmware updates
 
-[Download Firmware (App 5.4)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3885269020/inch-app-5.4.armv7.itb?api=v2)
+> [!IMPORTANT]
+> You will need an internet connection to download the firmware updates.
 
-[Download Firmware (System 5.0.5)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3641540644/inch-system-5.0.5.armv7.itb?api=v2)
+[Direct Download Firmware (App 5.4)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3885269020/inch-app-5.4.armv7.itb?api=v2)
+
+[Driect Download Firmware (System 5.0.5)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3641540644/inch-system-5.0.5.armv7.itb?api=v2)
+
+[https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/2836398134/Firmware+5.4](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/2836398134/Firmware+5.4)
 
 ## Perform Firmware Update
 1. Navigate to the Charger Web GUI
