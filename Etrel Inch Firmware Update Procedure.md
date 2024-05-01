@@ -1,4 +1,8 @@
 # Etrel Inch Firmware Update Procedure
+Updating the firmware consists of the following two major steps
+* Configure your computer's network adapter to allow you to communicate with the charger
+* Uploading the firmware update to the charger
+
 ## Configure Windows Network Adapter
 Below are steps to configure your network adapter on Windows to connect to the charger with an ethernet cable.
 
