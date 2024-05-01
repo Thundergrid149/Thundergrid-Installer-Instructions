@@ -55,7 +55,9 @@ C[5.4]
 
 [Driect Download Firmware (System 5.0.5)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3641540644/inch-system-5.0.5.armv7.itb?api=v2)
 
-[https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/2836398134/Firmware+5.4](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/2836398134/Firmware+5.4)
+[https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3885269020/5.4](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3885269020/5.4) ▶️ 5.4
+
+[https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3641540644/5.3](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3641540644/5.3) ▶️ 5.0.5
 
 ## Perform Firmware Update
 1. Navigate to the Charger Web GUI
