@@ -3,6 +3,9 @@ Updating the firmware consists of the following two major steps
 * Configure your computer's network adapter to allow you to communicate with the charger
 * Uploading the firmware update to the charger
 
+> [!IMPORTANT]
+> You will need an ethernet cable and laptop to complete this job
+
 Please call the Thundergrid Network Ops team on `0800 387 877` for assistance.
 
 ## Configure Windows Network Adapter
@@ -60,7 +63,11 @@ C[5.4]
 [https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3641540644/5.3](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3641540644/5.3) ▶️ 5.0.5
 
 ## Perform Firmware Update
-1. Navigate to the Charger Web GUI
+1. Plug the ethernet cable into your laptop and the charger
+
+The ethernet port on the charger is located behind the access door in the top right hand corner.
+***
+2. Navigate to the Charger Web GUI
 
 Type the IP address of the charger into your web browser. Make sure to include the ```http://``` before the IP address. Example ▶️ ```http://192.168.1.250```
 
@@ -70,7 +77,7 @@ The default IP address is ```192.168.1.250```
 
 ![Charger Access](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/cb295b992cc7a42101c873787e552edf317dd2b2/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/charger-access.gif)
 ***
-2. Login to the charger
+3. Login to the charger
 
 Use the default password unless otherwise specified
 
@@ -80,7 +87,7 @@ Use the default password unless otherwise specified
 
 ![Charger Login Screen](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/cb295b992cc7a42101c873787e552edf317dd2b2/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/charger-login-screen.png)
 ***
-3. Upload charger firmware
+4. Upload charger firmware
 
 Open the charger menu in the top left corner of the screen. Click the ```diagnostics``` section. Select ```Upload Firmware```. Select the firmware you downloaded earlier from your computer.
 
@@ -89,7 +96,7 @@ Open the charger menu in the top left corner of the screen. Click the ```diagnos
 > [!NOTE]
 > The firmware update usually takes 2-3 minutes but sometimes can be longer
 ***
-4. Repeat steps 1 to 3 until at the latest version
+5. Repeat steps 1 to 3 until at the latest version
 
 ## Charger Service Menu
 The charger service menu can be opened by holding down the white button inside the charger access panel for 2-3 seconds. The charger should make a beep when the menu has been successfully accessed.
