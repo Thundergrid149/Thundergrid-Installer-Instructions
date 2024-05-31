@@ -10,6 +10,9 @@ The charger's ethernet port can be accessed by removing the front plate of the c
 
 ***
 1. Remove the black plastic cover with a flat-head screwdriver. Once you have released the latch the cover lifts directly upwards.
+
+| ![Delta AC 1](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/e80877f9608f63c307491ebf595df23520ce9a5d/Files/Delta%20AC%20Mini%20Converting%20to%20Ethernet/delta-ac-5.jpg) | ![Delta AC 2](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/e80877f9608f63c307491ebf595df23520ce9a5d/Files/Delta%20AC%20Mini%20Converting%20to%20Ethernet/delta-ac-2.jpg) |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 ***
 2. Unscrew the seven T10 Torx screws.
 ***
