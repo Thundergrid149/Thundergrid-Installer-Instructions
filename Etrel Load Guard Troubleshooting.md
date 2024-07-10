@@ -24,13 +24,5 @@ The `LG` should have a GREEN dot next to it if it is connected successfully.
 ***
 
 # Other Load Guard Installation Tips & Checks: 
-
-Siting the little ‘arrow’ within the CT should be facing the direction of the current it is reading 
-
-Checking the LG is powered on and is correctly wired 
-
-Checking the length of the CTs have not been extended beyond the length of the factory wire lengths 
-
-Photograph of the installed LG showing how it is wired, especially important for 3-phase installations as it is not possible to remotely identify an incorrect wiring 
-
-In the Charger’s Configuration, checking the SN of the Load Guard matches that of the installed Load Guard. Vice versa, in the Load Guard configurator app when connected to the Load Guard, ensure that both the Serial Number of the charger and its Static IP address are correct. 
+* The CT clamps have an arrow inside of them. They should be facing the direction of the current it is reading 
+* The length of the CTs can not be extended beyond the length of the factory wire lengths 
