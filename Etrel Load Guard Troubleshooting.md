@@ -23,6 +23,12 @@ The charger service menu can be opened by holding down the white button inside t
 The `LG` should have a GREEN dot next to it if it is connected successfully.
 ***
 
-# Other Load Guard Installation Tips & Checks: 
-* The CT clamps have an arrow inside of them. They should be facing the direction of the current it is reading 
-* The length of the CTs can not be extended beyond the length of the factory wire lengths 
+# Other Load Guard Installation Tips & Checks
+## CT Clamp Orientation
+The CT clamps for the Load Guard have to be orientated in the correct direction for the load management system to work.
+
+The CT clamps have an arrow inside of them. This should be facing the same direction as the flow of power.
+
+The Load Guard should be reading a positive value when power is been drawn from the building. This can be checked in the service menu next to the Load Guard status. You should see a positive number next to the Load Guard status.
+
+Please note, that the length of the CTs can not be extended beyond the length of the factory wire lengths.
