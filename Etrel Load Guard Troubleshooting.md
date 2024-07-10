@@ -22,7 +22,7 @@ The charger service menu can be opened by holding down the white button inside t
 ***
 3. Check the connectivity to the Load Guard
 
-The `LG` should have a GREEN dot next to it if it is connected successfully.
+The `LG` should have a **green** dot next to it if it is connected successfully.
 ***
 
 # Other Load Guard Installation Tips & Checks
