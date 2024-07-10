@@ -2,13 +2,13 @@
 ## Check Data
 Check that the data cable is fully plugged into the charger and Load Guard at both ends.
 
-Use a data tester to check that there is no issues with the date cable.
+Use a data tester to check that there are no issues with the data cable.
 
 ## Power Cycle
 Power cycle the Load Guard. Switch off the breaker for the Load Guard only for 5-10 seconds, then power back on.  
 
 ## Remote Support
-Otherwise: call Thundergrid to remote into the charger to double-check this connectivity: `0800 387 877`
+Call Thundergrid to assist with troubleshooting on `0800 387 877`
 
 # Check Load Guard Status
 > [!NOTE]
