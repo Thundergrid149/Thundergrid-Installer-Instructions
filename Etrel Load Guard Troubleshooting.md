@@ -1,6 +1,8 @@
 # Etrel Load Guard Troubleshooting Options
 ## Check Data
-Check that the data cable is fully plugged into the charger and Load Guard at both ends 
+Check that the data cable is fully plugged into the charger and Load Guard at both ends.
+
+Use a data tester to check that there is no issues with the date cable.
 
 ## Power Cycle
 Power cycle the Load Guard. Switch off the breaker for the Load Guard only for 5-10 seconds, then power back on.  
