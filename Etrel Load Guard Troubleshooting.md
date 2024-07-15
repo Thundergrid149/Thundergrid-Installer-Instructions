@@ -12,7 +12,7 @@ Power cycle the Load Guard. Switch off the Load Guard's breaker for 5-10 seconds
 ## 3. Remote Support
 Call Thundergrid to assist with troubleshooting on `0800 387 877`.
 
-# Check Load Guard Status
+# Check Load Guard Status Locally
 > [!NOTE]
 > The charger has to be on FW `5.1` or higher
 1. Open the service menu
