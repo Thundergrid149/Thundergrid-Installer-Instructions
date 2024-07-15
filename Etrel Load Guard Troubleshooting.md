@@ -10,7 +10,7 @@ Use a data tester to check that there are no issues with the data cable.
 Power cycle the Load Guard. Switch off the Load Guard's breaker for 5-10 seconds, then power back on.  
 
 ## 3. Remote Support
-Call Thundergrid to assist with troubleshooting on `0800 387 877`
+Call Thundergrid to assist with troubleshooting on `0800 387 877`.
 
 # Check Load Guard Status
 > [!NOTE]
