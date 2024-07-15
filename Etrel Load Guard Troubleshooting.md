@@ -1,13 +1,15 @@
 # Etrel Load Guard Troubleshooting Options
-## Check Data
+This document outlines various troubleshooting steps to fix the connectivity between an Etrel Charger and an Etrel Load Guard
+
+## 1. Check Data
 Check that the data cable is fully plugged into the charger and Load Guard at both ends.
 
 Use a data tester to check that there are no issues with the data cable.
 
-## Power Cycle
+## 2. Power Cycle
 Power cycle the Load Guard. Switch off the Load Guard's breaker for 5-10 seconds, then power back on.  
 
-## Remote Support
+## 3. Remote Support
 Call Thundergrid to assist with troubleshooting on `0800 387 877`
 
 # Check Load Guard Status
@@ -31,6 +33,6 @@ The CT clamps for the Load Guard have to be orientated in the correct direction 
 
 The CT clamps have an arrow inside of them. This should be facing the same direction as the flow of power.
 
-The Load Guard should be reading a positive value when power is been drawn from the building. This can be checked in the service menu next to the Load Guard status. You should see a positive number next to the Load Guard status.
+The Load Guard should be reading a positive value when power is being drawn from the building. This can be checked in the service menu next to the Load Guard status. You should see a positive number next to the Load Guard status.
 
 Please note, that the length of the CTs can not be extended beyond the length of the factory wire lengths.
