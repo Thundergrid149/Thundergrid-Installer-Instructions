@@ -19,7 +19,7 @@ Below are steps to configure your network adapter on Windows to connect to the c
 
 ![IP Network Connections](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/e2b65bca289407feab340a1447948859df022682/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-network-connections.gif)
 ***
-3. Double click on ```Etherent```
+3. Double click on ```Ethernet```
 
 ![IP Network Adapters](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/e2b65bca289407feab340a1447948859df022682/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-adapters.png)
 ***
@@ -33,9 +33,15 @@ Below are steps to configure your network adapter on Windows to connect to the c
 * **Subnet Mask:** ```255.255.255.0```
 
 ![IP Settings](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/a3c3ff82a1d33f07f6e4f6c8291bc4b6ebb006fb/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-settings.png)
+
+// @reuben - update the above screengrab to have the correct IP address in it (it's showing '192.168.88.33')
+
 ***
 
+
 ## Firmware Update Path
+Note: We recommend downloading all required Firmware files to your laptop prior to visiting site in order to limit having to tether and download files on site.
+
 The firmware must be updated in a specific order. Please apply the ```system``` firmware before the ```app``` firmware.
 
 If the charger is on a version starting with `4.0` you will have to update to `5.0` first. [5.0 Download](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3221094430/5.0) (https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3221094430/5.0). The 5.0 update has the system & app bundled into one file.
@@ -52,7 +58,7 @@ C[5.4]
 ## Download the latest firmware updates
 
 > [!IMPORTANT]
-> You will need an internet connection to download the firmware updates.
+> You will need an internet connection to download the firmware updates. Again, we recommend downloading these prior to visiting site so these are readily available on your laptop.
 
 [Direct Download Firmware (App 5.4)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3885269020/inch-app-5.4.armv7.itb?api=v2)
 
@@ -76,7 +82,12 @@ The charger IP address can be found by opening the service menu on the charger a
 The default IP address is ```192.168.1.250```
 
 ![Charger Access](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/cb295b992cc7a42101c873787e552edf317dd2b2/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/charger-access.gif)
+
+Alternatively, you can type the charger's serial number in the browser followed by '.local' Example ▶️ ```23456789.local```
 ***
+
+
+
 3. Login to the charger
 
 Use the default password unless otherwise specified
