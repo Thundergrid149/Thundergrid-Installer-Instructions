@@ -1,9 +1,9 @@
 # LTE Module Replacement for Etrel Inch Pro
 This document outlines the process for replacing the LTE module in an Etrel Inch Pro.
 
-|  Prerequisite| 
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Verify the charger is on the minimum firmware versions. Minimum version is 5.1 for software/application and 5.0.1 for OS/system. Follow the instructions here if the charger is below the minimum versions: https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/main/Etrel%20Inch%20Firmware%20Update%20Procedure.md                                                                                               
+|  Prerequisite|  Steps
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                      
+|  Verify the charger is on the minimum firmware versions. Minimum version is 5.1 for software/application and 5.0.1 for OS/system.                                                                                              | Follow the instructions here if the charger is below the minimum versions: https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/main/Etrel%20Inch%20Firmware%20Update%20Procedure.md   |
 
 
 | Steps                                                                                                                 | Photos |
