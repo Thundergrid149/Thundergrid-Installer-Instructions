@@ -1,6 +1,9 @@
 # LTE Module Replacement for Etrel Inch Pro
 This document outlines the process for replacing the LTE module in an Etrel Inch Pro.
 
+> [!IMPORTANT]
+> The prerequisite steps need to be completed first
+
 |  Prerequisite Steps |  Details
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                      
 |  Verify the charger is on the minimum firmware versions| Check by opening the side maintenance door and pressing the button inside the maintenance opening. After holding the button down for 4 seconds, the charger will beep and show the menu options on the screen. Press `About` and check the version next to `SW`.   |
