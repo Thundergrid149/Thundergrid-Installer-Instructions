@@ -62,6 +62,12 @@ C[5.4]
 > [!IMPORTANT]
 > You will need an internet connection to download the firmware updates.
 
+▶️ `5.4.1` App and System Firmware
+
+[Direct Download (App 5.4.1)](https://landisgyr-evsolutions.atlassian.net/wiki/download/attachments/4446912513/inch-system-5.0.9_5.4.1.armv7.itb?api=v2)
+
+[Firmware release notes and download page (App 5.4.1)](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/4446912513/5.4.1) 
+
 ▶️ `5.4` App Firmware
 
 [Direct Download (App 5.4)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3885269020/inch-app-5.4.armv7.itb?api=v2)
