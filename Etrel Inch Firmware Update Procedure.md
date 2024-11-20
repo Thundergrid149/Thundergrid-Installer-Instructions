@@ -43,7 +43,7 @@ Below are steps to configure your network adapter on Windows to connect to the c
 The firmware must be updated in a specific order. Please apply the ```system``` firmware before the ```app``` firmware.
 
 > [!NOTE]
-> If the charger is on a version starting with `4.0` you will have to update to `5.0` first. The `5.0` update has the system and app bundled into one file. [5.0 Firmware Download Page](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3221094430/5.0) 
+> If the charger is on a version starting with `4.0` you will have to update to `5.0` first. The `5.0` update has the system and app bundled into one file.
 
 
 ***
@@ -52,9 +52,10 @@ flowchart LR
 
 Z[4.x]-->|System + App|Y
 Y[5.0]-.-A
-A[5.X]-->| System |B
+A[5.x]-->| System |B
 B[5.0.5]-->| App |C
-C[5.4]
+C[5.4]-->|System + App|D
+D[5.4.1]
 ```
 ***
 ## Download the latest firmware updates
