@@ -25,14 +25,16 @@ Below are steps to configure your network adapter on Windows to connect to the c
 ***
 4. Select ```Internet Protocol Version 4 (TCP/IPv4)``` then click ```Properties```
 
-![IP IPv4](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/a3c3ff82a1d33f07f6e4f6c8291bc4b6ebb006fb/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-ipv4.png)
+![Screenshot2](https://github.com/user-attachments/assets/25841acf-5e22-4ea0-9cc5-b5bf636425de)
+
 ***
 5. Set the following settings then click ```Ok```
 
 * **IP Address:** ```192.168.1.33```
 * **Subnet Mask:** ```255.255.255.0```
 
-![IP Settings](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/a3c3ff82a1d33f07f6e4f6c8291bc4b6ebb006fb/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-settings.png)
+
+![Screenshot1](https://github.com/user-attachments/assets/581e336a-81cc-4dae-b273-7823a48b9e06)
 ***
 
 ## Firmware Update Path
