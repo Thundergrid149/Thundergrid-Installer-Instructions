@@ -19,7 +19,7 @@ Below are steps to configure your network adapter on Windows to connect to the c
 
 ![IP Network Connections](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/e2b65bca289407feab340a1447948859df022682/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-network-connections.gif)
 ***
-3. Double click on ```Etherent```
+3. Double click on ```Ethernet```
 
 ![IP Network Adapters](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/e2b65bca289407feab340a1447948859df022682/Files/Etrel%20Inch%20Firmware%20Update%20Procedure/ip-adapters.png)
 ***
