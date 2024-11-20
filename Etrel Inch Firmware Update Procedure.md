@@ -41,7 +41,7 @@ Below are steps to configure your network adapter on Windows to connect to the c
 The firmware must be updated in a specific order. Please apply the ```system``` firmware before the ```app``` firmware.
 
 > [!NOTE]
-> If the charger is on a version starting with `4.0` you will have to update to `5.0` first. The 5.0 update has the system and app bundled into one file. [5.0 Firmware Download Page](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3221094430/5.0) 
+> If the charger is on a version starting with `4.0` you will have to update to `5.0` first. The `5.0` update has the system and app bundled into one file. [5.0 Firmware Download Page](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3221094430/5.0) 
 
 
 
@@ -60,13 +60,13 @@ C[5.4]
 > [!IMPORTANT]
 > You will need an internet connection to download the firmware updates.
 
-▶️ 5.4 App Firmware
+▶️ `5.4` App Firmware
 
 [Direct Download (App 5.4)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3885269020/inch-app-5.4.armv7.itb?api=v2)
 
 [Firmware release notes and download page (App 5.4)](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3885269020/5.4) 
 
-▶️ 5.0.5 System Firmware
+▶️ `5.0.5` System Firmware
 
 [Direct Download (System 5.0.5)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3641540644/inch-system-5.0.5.armv7.itb?api=v2)
 
