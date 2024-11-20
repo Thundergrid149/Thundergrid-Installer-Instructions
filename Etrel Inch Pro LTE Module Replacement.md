@@ -10,7 +10,7 @@ This document outlines the process for replacing the LTE module in an Etrel Inch
 |  Unsure of the firmware versions? |   Call Thundergrid's Network Operations team on `0800 387 877` BEFORE replacing the LTE module.|
 
 
-Once the prerequisite steps have been completed, then follow the instructions below.
+Once the prerequisite steps have been completed, follow the instructions below.
 
 | Steps                                                                                                                 | Photos |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                               
