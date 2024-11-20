@@ -2,7 +2,7 @@
 This document outlines the process for replacing the LTE module in an Etrel Inch Pro.
 
 > [!IMPORTANT]
-> The prerequisite steps need to be completed first
+> The prerequisite steps for firmware need to be completed first
 
 |  Prerequisite Steps |  Details
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                      
