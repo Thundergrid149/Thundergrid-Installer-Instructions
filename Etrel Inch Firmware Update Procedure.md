@@ -1,13 +1,15 @@
 # Etrel Inch Firmware Update Procedure
+> [!IMPORTANT]
+> * You will need an ethernet cable and laptop to complete this job.
+> * You will need an internet connection to download the firmware updates.
+
+
 Updating the firmware consists of the following two major steps
 * Configure your computer's network adapter to allow you to communicate with the charger
 * Uploading the firmware update to the charger
 
-> [!IMPORTANT]
-> You will need an ethernet cable and laptop to complete this job
-
 Please call the Thundergrid Network Ops team on `0800 387 877` for assistance.
-
+***
 ## Configure Windows Network Adapter
 Below are steps to configure your network adapter on Windows to connect to the charger with an ethernet cable.
 
@@ -44,7 +46,7 @@ The firmware must be updated in a specific order. Please apply the ```system``` 
 > If the charger is on a version starting with `4.0` you will have to update to `5.0` first. The `5.0` update has the system and app bundled into one file. [5.0 Firmware Download Page](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3221094430/5.0) 
 
 
-
+***
 ```mermaid
 flowchart LR
 
@@ -71,7 +73,7 @@ C[5.4]
 [Direct Download (System 5.0.5)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3641540644/inch-system-5.0.5.armv7.itb?api=v2)
 
 [Firmware release notes and download page (System 5.0.5)](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3641540644/5.3) 
-
+***
 ## Perform Firmware Update
 1. Plug the ethernet cable into your laptop and the charger
 
@@ -107,6 +109,6 @@ Open the charger menu in the top left corner of the screen. Click the ```diagnos
 > The firmware update usually takes 2-3 minutes but sometimes can be longer
 ***
 5. Repeat steps 1 to 3 until at the latest version
-
+***
 ## Charger Service Menu
 The charger service menu can be opened by holding down the white button inside the charger access panel for 2-3 seconds. The charger should make a beep when the menu has been successfully accessed.
