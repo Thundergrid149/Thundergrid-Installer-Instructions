@@ -112,3 +112,4 @@ Open the charger menu in the top left corner of the screen. Click the ```diagnos
 ***
 ## Charger Service Menu
 The charger service menu can be opened by holding down the white button inside the charger access panel for 2-3 seconds. The charger should make a beep when the menu has been successfully accessed.
+***
