@@ -62,23 +62,18 @@ C[5.4]
 > [!IMPORTANT]
 > You will need an internet connection to download the firmware updates.
 
-▶️ `5.4.1` App and System Firmware
+|  Firmware Version |  Type |  Direct Download |  Release Notes |  Date
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                              
+|  `5.4.1` | App and System | [5.4.1](https://landisgyr-evsolutions.atlassian.net/wiki/download/attachments/4446912513/inch-system-5.0.9_5.4.1.armv7.itb?api=v2) | [5.4.1](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/4446912513/5.4.1) | 21 Oct 2024 |
 
-[Direct Download (App 5.4.1)](https://landisgyr-evsolutions.atlassian.net/wiki/download/attachments/4446912513/inch-system-5.0.9_5.4.1.armv7.itb?api=v2)
+### Download older firmware updates
 
-[Firmware release notes and download page (App 5.4.1)](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/4446912513/5.4.1) 
+|  Firmware Version |  Type |  Direct Download |  Release Notes |  Date
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                              
+|  `5.4`  |  App   | [5.4](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3885269020/inch-app-5.4.armv7.itb?api=v2)  | [5.4](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3885269020/5.4)  | 21 Feb 2024 |
+|  `5.0.5`  |  System  | [5.0.5](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3641540644/inch-system-5.0.5.armv7.itb?api=v2) | [5.0.5](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3641540644/5.3) | 23 Aug 2024 |
+|  `5.0`  |  App and System | [5.0](https://landisgyr-evsolutions.atlassian.net/wiki/download/attachments/3221094430/inch-system-5.0.armv7.itb?api=v2) |[5.0](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3221094430/5.0) | 20 Jun 2022 |
 
-▶️ `5.4` App Firmware
-
-[Direct Download (App 5.4)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3885269020/inch-app-5.4.armv7.itb?api=v2)
-
-[Firmware release notes and download page (App 5.4)](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3885269020/5.4) 
-
-▶️ `5.0.5` System Firmware
-
-[Direct Download (System 5.0.5)](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3641540644/inch-system-5.0.5.armv7.itb?api=v2)
-
-[Firmware release notes and download page (System 5.0.5)](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3641540644/5.3) 
 ***
 ## Perform Firmware Update
 1. Plug the ethernet cable into your laptop and the charger
