@@ -53,10 +53,14 @@ flowchart LR
 Z[4.x]-->|System + App|Y
 Y[5.0].->| first update |C
 Y[5.0].->| second update |B
+Y[5.0]-->| System + App |E
 C[5.4]-->| App |D
 B[5.0.5]-->| System |D
 D[5.4:5.0.5]-->| System + App |E
-E[5.4.1:5.0.9]
+E[5.4.1]
+
+style Z fill:#FFFFFF
+style D fill:#FFF0F5
 ```
 ***
 ## Download the latest firmware version
