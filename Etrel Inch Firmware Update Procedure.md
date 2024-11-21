@@ -40,27 +40,21 @@ Below are steps to configure your network adapter on Windows to connect to the c
 ***
 
 ## Firmware Update Path
-The firmware must be updated in a specific order. Please apply the ```app``` firmware before the ```system``` firmware.
+The firmware must be updated in a specific order. Please update the firmware according to the flow chart below.
 
 > [!NOTE]
-> If the charger is on a version starting with `4.0` you will have to update to `5.0` first. The `5.0` update has the system and app bundled into one file.
+> If the charger is on a version starting with `4.0` you will have to update to `5.0` first.
 
 
 ***
 ```mermaid
 flowchart LR
 
-Z[4.x]-->|System + App|Y
-Y[5.0].->| 1st Update: App |C
-Y[5.0].->| 2nd Update: System |B
-Y[5.0]-->| Alternative Update Path: System + App |E
-C[5.4]-->| App |D
-B[5.0.5]-->| System |D
-D[5.4:5.0.5]-->| System + App |E
+Z[4.x]-->|Application + System Update|Y
+Y[5.0]-->|Application + System Update |E
 E[5.4.1]
 
 style Z fill:#FFFFFF
-style D fill:#FFF0F5
 ```
 ***
 ## Download the latest firmware version
@@ -70,15 +64,13 @@ style D fill:#FFF0F5
 
 |  Firmware Version |  Type |  Direct Download |  Release Notes |  Date
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                              
-|  `5.4.1` | App and System | [5.4.1](https://landisgyr-evsolutions.atlassian.net/wiki/download/attachments/4446912513/inch-system-5.0.9_5.4.1.armv7.itb?api=v2) | [5.4.1](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/4446912513/5.4.1) | 21 Oct 2024 |
+|  `5.4.1` | Application + System | [5.4.1](https://landisgyr-evsolutions.atlassian.net/wiki/download/attachments/4446912513/inch-system-5.0.9_5.4.1.armv7.itb?api=v2) | [5.4.1](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/4446912513/5.4.1) | 21 Oct 2024 |
 
 ### Download older firmware versions
 
 |  Firmware Version |  Type |  Direct Download |  Release Notes |  Date
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                              
-|  `5.4`  |  App   | [5.4](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3885269020/inch-app-5.4.armv7.itb?api=v2)  | [5.4](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3885269020/5.4)  | 21 Feb 2024 |
-|  `5.0.5`  |  System  | [5.0.5](https://etrelchargingsolutions.atlassian.net/wiki/download/attachments/3641540644/inch-system-5.0.5.armv7.itb?api=v2) | [5.0.5](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3641540644/5.3) | 23 Aug 2024 |
-|  `5.0`  |  App and System | [5.0](https://landisgyr-evsolutions.atlassian.net/wiki/download/attachments/3221094430/inch-system-5.0.armv7.itb?api=v2) |[5.0](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3221094430/5.0) | 20 Jun 2022 |
+|  `5.0`  |  Application + System | [5.0](https://landisgyr-evsolutions.atlassian.net/wiki/download/attachments/3221094430/inch-system-5.0.armv7.itb?api=v2) |[5.0](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/3221094430/5.0) | 20 Jun 2022 |
 
 ***
 ## Perform Firmware Update
