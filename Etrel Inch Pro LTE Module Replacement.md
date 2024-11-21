@@ -6,8 +6,8 @@ This document outlines the process for replacing the LTE module in an Etrel Inch
 
 |  Prerequisite Steps |  Details
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                      
-|  `Minimum` firmware versions |  `5.1 for software/application` and `5.0.1 for OS/system`.   |
-|  `Recommended` firmware versions |  `5.4.1 for software/application` and `5.0.9 for OS/system`.   |
+|  `Minimum` firmware versions |  `5.1 software/application` and `5.0.1 OS/system` (two separate updates)  |
+|  `Recommended` firmware versions |  `5.4.1` (the 5.4.1 update bundles both application and system updates into one file)  |
 |  Firmware update procedure                                                                                               | If the charger is below the `minimum` versions required, follow these instructions to update the firmware to the `recommended` firmware versions: [Etrel Inch Firmware Update Procedure](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/main/Etrel%20Inch%20Firmware%20Update%20Procedure.md)   |
 |  Unsure of the firmware versions? |   Call Thundergrid's Network Operations team on `0800 387 877` BEFORE replacing the LTE module.|
 
