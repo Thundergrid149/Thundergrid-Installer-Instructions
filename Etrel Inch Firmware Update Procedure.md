@@ -51,9 +51,9 @@ The firmware must be updated in a specific order. Please apply the ```app``` fir
 flowchart LR
 
 Z[4.x]-->|System + App|Y
-Y[5.0].->| first update |C
-Y[5.0].->| second update |B
-Y[5.0]-->| System + App |E
+Y[5.0].->| 1st Update: App |C
+Y[5.0].->| 2nd Update: System |B
+Y[5.0]-->| Alternative Update Path: System + App |E
 C[5.4]-->| App |D
 B[5.0.5]-->| System |D
 D[5.4:5.0.5]-->| System + App |E
