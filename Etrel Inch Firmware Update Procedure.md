@@ -51,10 +51,10 @@ The firmware must be updated in a specific order. Please apply the ```app``` fir
 flowchart LR
 
 Z[4.x]-->|System + App|Y
-Y[5.0]-->| App |C
-Y[5.0]-->| System |B
-C[5.4].->|  |D
-B[5.0.5].->|  |D
+Y[5.0].->| first update |C
+Y[5.0].->| second update |B
+C[5.4]-->| App |D
+B[5.0.5]-->| System |D
 D[5.4:5.0.5]-->| System + App |E
 E[5.4.1:5.0.9]
 ```
