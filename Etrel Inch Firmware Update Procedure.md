@@ -40,7 +40,7 @@ Below are steps to configure your network adapter on Windows to connect to the c
 ***
 
 ## Firmware Update Path
-The firmware must be updated in a specific order. Please apply the ```system``` firmware before the ```app``` firmware.
+The firmware must be updated in a specific order. Please apply the ```app``` firmware before the ```system``` firmware.
 
 > [!NOTE]
 > If the charger is on a version starting with `4.0` you will have to update to `5.0` first. The `5.0` update has the system and app bundled into one file.
@@ -51,11 +51,11 @@ The firmware must be updated in a specific order. Please apply the ```system``` 
 flowchart LR
 
 Z[4.x]-->|System + App|Y
-Y[5.0]-.-A
-A[5.x]-->| System |B
-B[5.0.5]-->| App |C
-C[5.4]-->|System + App|D
-D[5.4.1]
+Y[5.0]-->| App |C
+C[5.4]-->| App |D
+B[5.0.5]-->| System |D
+D[5.4:5.0.5]-->| System + App |E
+E[5.4.1:5.0.9]
 ```
 ***
 ## Download the latest firmware version
