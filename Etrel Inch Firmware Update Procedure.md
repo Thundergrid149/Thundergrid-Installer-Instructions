@@ -62,10 +62,12 @@ style Z fill:#FFFFFF
 > [!IMPORTANT]
 > You will need an internet connection to download the firmware updates.
 
+
 |  Firmware Version |  Type |  Direct Download |  Release Notes |  Date
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                              
 |  `5.4.1` | Application + System | [5.4.1](https://landisgyr-evsolutions.atlassian.net/wiki/download/attachments/4446912513/inch-system-5.0.9_5.4.1.armv7.itb?api=v2) | [5.4.1](https://landisgyr-evsolutions.atlassian.net/wiki/spaces/Home/pages/4446912513/5.4.1) | 21 Oct 2024 |
-
+> [!IMPORTANT]
+> If there is more than one charger at the same location: 5.4.1 is incompatible with version 5.4, all chargers at the same location will need to be updated to 5.4.1
 ### Download older firmware versions
 
 |  Firmware Version |  Type |  Direct Download |  Release Notes |  Date
