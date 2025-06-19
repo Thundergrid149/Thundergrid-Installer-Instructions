@@ -85,3 +85,8 @@ Add Gif
 6. Login and confirm connectivity
 
 Add Gif
+
+***
+
+
+Call Thundergrid's Network Operations team on `0800 387 877` for help, to confirm connectivity & a successful installation.
