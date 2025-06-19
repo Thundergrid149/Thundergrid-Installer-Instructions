@@ -79,7 +79,9 @@ clear username and PIN -> confirm this
 ***
 5. Reboot charger
 
-Add Gif
+Go to `Diagnostics` > `Reboot device` > `Yes`
+
+![Reboot Charger](<Files/Etrel Inch Vodafone SIM Installation/reboot.gif>)
 
 ***
 6. Login and confirm connectivity
