@@ -85,7 +85,7 @@ Click `Save`
 ***
 5. Reboot charger
 
-Go to `Diagnostics` > `Reboot device` > `Yes`
+Go to `Diagnostics` > `Restart device` > `Yes`
 
 ![Reboot Charger](<Files/Etrel Inch Vodafone SIM Installation/reboot.gif>)
 
