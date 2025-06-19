@@ -76,7 +76,7 @@ Go to `Configuration` > `Connectivity` > `GSM connectivity`
 
 Set the `APN` field to: `tg.lte.apac.prod`
 
-Confirm the `Username` & `Password` fields are empty -> confirm this
+Confirm the `Username` & `Password` fields are empty -> TODO: confirm this
 
 Click `Save`
 
