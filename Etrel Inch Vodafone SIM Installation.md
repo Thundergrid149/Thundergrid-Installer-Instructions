@@ -36,7 +36,14 @@ Below are steps to configure your network adapter on Windows to connect to the c
 
 ## Install SIM
 
-* Insert SIM card
+* Insert the SIM card into the SIM tray. The SIM tray is located on the inside of the charger's service door. See photos for reference.
+
+> [!CAUTION]
+> Inserting the SIM card in the wrong orientation could cause damage to the charger. Observe photos for the correct orientation.
+
+| ![ SIM Slot ](< Files/Etrel Inch Vodafone SIM Installation/sim-slot.jpg >) | ![ SIM Slot Orientation Front ](< Files/Etrel Inch Vodafone SIM Installation/sim-slot-front.jpg >) | ![ SIM Slot Orientation Back ](< Files/Etrel Inch Vodafone SIM Installation/sim-slot-back.jpg >) | ![ SIM Slot Orientation Back ](< Files/Etrel Inch Vodafone SIM Installation/sim-slot-inserted.jpg > ) |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+
 
 ## Configure Charger
 1. Plug the ethernet cable into your laptop and the charger
