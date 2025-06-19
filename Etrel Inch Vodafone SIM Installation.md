@@ -1,5 +1,5 @@
 # Etrel Inch Vodafone SIM Installation Procedure
-Install the Vodafone SIM consists of the following three major steps
+Installing the Vodafone SIM consists of the following three major steps
 * Configure your computer's network adapter to allow you to communicate with the charger
 * Install the SIM in the charger
 * Configure the charger and confirm connectivity
