@@ -72,9 +72,15 @@ Use the default password unless otherwise specified
 ***
 4. Configure APN
 
-`APN`: `tg.lte.apac.prod`
+Go to `Configuration` > `Connectivity` > `GSM connectivity`
 
-clear username and PIN -> confirm this
+Set the `APN` field to: `tg.lte.apac.prod`
+
+Confirm the `Username` & `Password` fields are empty -> confirm this
+
+Click `Save`
+
+![Set APN](<Files/Etrel Inch Vodafone SIM Installation/set-apn.gif>)
 
 ***
 5. Reboot charger
