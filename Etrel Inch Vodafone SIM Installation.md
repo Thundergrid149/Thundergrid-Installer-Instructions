@@ -92,7 +92,9 @@ Go to `Diagnostics` > `Reboot device` > `Yes`
 ***
 6. Login and confirm connectivity
 
-Add Gif
+Login to the charger and open the connectivity status menu. Allow the charger up to 5 minutes to connect after initial startup.
+
+TODO: Add Gif
 
 ***
 
