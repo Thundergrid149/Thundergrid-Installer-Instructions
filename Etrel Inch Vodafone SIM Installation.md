@@ -52,11 +52,13 @@ The ethernet port on the charger is located behind the access door in the top ri
 ***
 2. Navigate to the Charger Web GUI
 
-Type the IP address of the charger into your web browser. Make sure to include the `http://` before the IP address. Example ▶️ `http://192.168.1.250`
+Type the IP address of the charger into your web browser. Make sure to include the `http://` before the IP address.
 
 The charger IP address can be found by opening the service menu (hold down the white button on the inside of the service door until you hear a beep) on the charger and then opening the `1. Communications` menu.
 
-The default IP address is `192.168.1.250`
+The default IP address is `192.168.1.250`.
+
+Full Example ▶️ `http://192.168.1.250`
 
 ![Charger Access](<Files/Etrel Inch Firmware Update Procedure/charger-access.gif>)
 ***
