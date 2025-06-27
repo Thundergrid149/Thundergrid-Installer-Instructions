@@ -54,7 +54,12 @@ The ethernet port on the charger is located behind the access door in the top ri
 
 Type the IP address of the charger into your web browser. Make sure to include the `http://` before the IP address.
 
-The charger IP address can be found by opening the service menu (hold down the white button on the inside of the service door until you hear a beep) on the charger and then opening the `1. Communications` menu.
+The charger IP address can be found by opening the service menu (hold down the white button on the inside of the service door until you hear a beep) on the charger and then opening the `1. Communications` menu. The IP address is at the top.
+
+TODO: Insert screenshot of communications menu
+
+> [!NOTE]
+> If you see a IP address starting in `169.xxx.xx.xx` set your network adapter back to DHCP. [This involves reverting the changes peformed in this section](#configure-windows-network-adapter). Call Thundergrid's Network Operations team on `0800 387 877` for help.
 
 The default IP address is `192.168.1.250`.
 
