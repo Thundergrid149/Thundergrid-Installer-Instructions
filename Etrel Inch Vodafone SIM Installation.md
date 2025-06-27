@@ -14,19 +14,19 @@ Below are steps to configure your network adapter on Windows to connect to the c
 
 ![IP Control Panel](<Files/Etrel Inch Firmware Update Procedure/ip-control-panel.gif>)
 ***
-2. Search for ```Network Connections``` and select ```View Network Connections```
+2. Search for `Network Connections` and select `View Network Connections`
 
 ![IP Network Connections](<Files/Etrel Inch Firmware Update Procedure/ip-network-connections.gif>)
 ***
-3. Double click on ```Etherent```
+3. Double click on `Ethernet`
 
 ![IP Network Adapters](<Files/Etrel Inch Firmware Update Procedure/ip-adapters.png>)
 ***
-4. Select ```Internet Protocol Version 4 (TCP/IPv4)``` then click ```Properties```
+4. Select `Internet Protocol Version 4 (TCP/IPv4)` then click `Properties`
 
 ![IP IPv4](<Files/Etrel Inch Firmware Update Procedure/ip-ipv4.png>)
 ***
-5. Set the following settings then click ```Ok```
+5. Set the following settings then click `Ok`
 
 * **IP Address:** ```192.168.1.33```
 * **Subnet Mask:** ```255.255.255.0```
