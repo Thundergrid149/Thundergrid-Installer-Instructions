@@ -108,5 +108,7 @@ TODO: Add Gif
 
 ***
 
-
 Call Thundergrid's Network Operations team on `0800 387 877` for help, to confirm connectivity & a successful installation.
+
+TODO: add picutre of cell check
+TODO: add communcations menu screenshot
