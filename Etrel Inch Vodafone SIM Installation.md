@@ -56,7 +56,7 @@ Type the IP address of the charger into your web browser. Make sure to include t
 
 The charger IP address can be found by opening the service menu (hold down the white button on the inside of the service door until you hear a beep) on the charger and then opening the `1. Communications` menu. The IP address is at the top.
 
-TODO: Insert screenshot of communications menu
+![Service Menu IP](<Files/Etrel Inch Vodafone SIM Installation/service-menu-ip.jpg>)
 
 > [!NOTE]
 > If you see a IP address starting in `169.xxx.xx.xx` set your network adapter back to DHCP. [This involves reverting the changes peformed in this section](#configure-windows-network-adapter). Call Thundergrid's Network Operations team on `0800 387 877` for help.
@@ -99,7 +99,7 @@ Go to `Diagnostics` > `Restart device` > `Yes`
 ***
 6. Login and confirm connectivity
 
-Login to the charger and open the connectivity status menu. Allow the charger up to 5 minutes to connect after initial startup.
+Login to the charger and open the connectivity status menu to confirm connectivity. Allow the charger up to 5 minutes to connect after initial startup. Verify that the charger is reporting as `Connected`.
 
 TODO: Add Gif
 
@@ -109,6 +109,3 @@ TODO: Add Gif
 ***
 
 Call Thundergrid's Network Operations team on `0800 387 877` for help, to confirm connectivity & a successful installation.
-
-TODO: add picutre of cell check
-TODO: add communcations menu screenshot
