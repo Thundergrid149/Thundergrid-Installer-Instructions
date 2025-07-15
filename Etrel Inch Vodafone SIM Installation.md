@@ -83,8 +83,6 @@ Go to `Configuration` > `Connectivity` > `GSM connectivity`
 
 Set the `APN` field to: `tg.lte.apac.prod`
 
-Confirm the `Username` & `Password` fields are empty -> TODO: confirm this
-
 Click `Save`
 
 ![Set APN](<Files/Etrel Inch Vodafone SIM Installation/set-apn.gif>)
