@@ -101,7 +101,7 @@ Go to `Diagnostics` > `Restart device` > `Yes`
 
 Login to the charger and open the connectivity status menu to confirm connectivity. Allow the charger up to 5 minutes to connect after initial startup. Verify that the charger is reporting as `Connected`.
 
-TODO: Add Gif
+![Connected SIM](<Files/Etrel Inch Vodafone SIM Installation/connected-sim.gif>)
 
 > [!NOTE]
 > If the charger reports an error message and the `SIM status` is `SIM Not Present` this may be because of a faulty SIM tray. Verify the SIM card has been inserted in the correct orientation (rebooting the charger after any changes is required for detection). Call Thundergrid's Network Operations team on `0800 387 877` for help.
