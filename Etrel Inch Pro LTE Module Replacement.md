@@ -1,6 +1,12 @@
 # LTE Module Replacement for Etrel Inch Pro
 This document outlines the process for replacing the LTE module in an Etrel Inch Pro.
 
+|  Prerequisite Steps |  Details
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                      
+|  Minimum firmware versions |  `5.1 for software/application` and `5.0.1 for OS/system`.   |
+|  Unsure of the firmware version? |   Call Thundergrid's Network Operations team on `0800 387 877` BEFORE replacing the LTE module.|
+
+
 | Steps                                                                                                                 | Photos |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1. Fold down the charger with the provided black installation bracket                                                                                                                               | ![LTE](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/bf5320ff43e7b706e8eac4ecd9548a664fb4998c/Files/LTE%20Module%20Replacement%20for%20Etrel%20Inch%20Pro/lte-8.jpg) |
