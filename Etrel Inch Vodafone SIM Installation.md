@@ -81,7 +81,7 @@ Use the default password unless otherwise specified
 
 Go to `Configuration` > `Connectivity` > `GSM connectivity`
 
-Set the `APN` field to: `tg.lte.apac.prod`
+Set the `APN` field to: `tg.lte.prod.apac`
 
 Click `Save`
 
