@@ -10,7 +10,7 @@
 * Thundergrid has minimum acceptable reception parameters, make sure the location of the device will achieve this. Please feel free to contact us for more information and support regarding this.
 
 ## Mounting
-![ltap](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/030dbc3b237191de3b219814e3e959084cd523d0/Files/ltap-mini-mounting.png)
+![ltap](<Files/ltap-mini-mounting.png>)
 1. It is possible to attach the device to a wall, using the provided screw holes on the sides of the unit. The device should be mounted in a way that the cable openings are pointing downward as shown in the picture.
 2. The ports are protected with a small door, that is held in place with one screw. Use the Philips PH2 screwdriver to access the ports.
 3. The door has cut-out places for all available ports, but please only break out the openings that you will use.
