@@ -10,16 +10,22 @@
 * Thundergrid has minimum acceptable reception parameters, make sure the location of the device will achieve this. Please feel free to contact us for more information and support regarding this.
 
 ## Mounting
-![ltap](https://github.com/Thundergrid149/Thundergrid-Installer-Instructions/blob/030dbc3b237191de3b219814e3e959084cd523d0/Files/ltap-mini-mounting.png)
+![ltap](<Files/ltap-mini-mounting.png>)
 1. It is possible to attach the device to a wall, using the provided screw holes on the sides of the unit. The device should be mounted in a way that the cable openings are pointing downward as shown in the picture.
 2. The ports are protected with a small door, that is held in place with one screw. Use the Philips PH2 screwdriver to access the ports.
 3. The door has cut-out places for all available ports, but please only break out the openings that you will use.
 4. The device can be used both indoors and outdoors. The IP rating scale for this device is IP54.
 
+## Example Setup
+
+![Example Setup](<Files/ltap-demo-setup.png>)
+
 ## Powering
 Powering the device over ethernet is the preferred method. The adapter for this is included in the box. This allows you to put the device up to 100 meters away (ethernet cable limit) from the rest of the communication equipment. The power consumption under maximum load with attachments can reach 9 W.
 
 **Ethernet port accepts passive and 802.3af/at Power over Ethernet 8-57 V DC (compensate for loss on cable, so more than 12 V recommended).**
+
+![PoE Example](<Files/mikrotik-poe-injector-diagram.png>)
 
 Connecting to a PoE Adapter:
 1. Connect the Ethernet cable from the LtAP Mini to the "Data+Power" (PoE+DATA) port of the PoE adapter.
